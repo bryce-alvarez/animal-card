@@ -1,0 +1,34 @@
+.card img
+{
+  height: 300px;
+  width: 300px;
+  margin: 5px;
+}
+.card_container
+{
+  width: 310px;
+  height: 680px;
+  border: 1px solid grey;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+  padding: .5em;
+}
+.text_box
+{
+  height: 300px;
+  width: 290px;
+  margin: 5px;
+  border: 1px solid grey;
+  padding-left: .5em  ;
+}
+li
+{
+  list-style: none;
+}
+span
+{
+  font-weight: bold;
+}
+p
+{
+
+}
